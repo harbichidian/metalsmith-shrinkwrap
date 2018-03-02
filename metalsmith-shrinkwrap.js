@@ -17,7 +17,7 @@ module.exports = function(options = {all: "section"}) {
 						sibling = sibling.nextElementSibling;
 					} 
 					
-					
+					// Create a container before the start of the pile and then move the pile into it
 				});
 			});
 		});
